@@ -1,2 +1,7 @@
 @import url(reset.css);
+@import url(fonts.css);
 
+body {
+  font-family: 'Neue Hans Kendrick', sans-serif;
+  font-weight: 900;
+}

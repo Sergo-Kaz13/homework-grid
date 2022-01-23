@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Neue Hans Kendrick'), 
+  url(../fonts/neuehanskendrick-medium.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Neue Hans Kendrick';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Neue Hans Kendrick'), 
+  url(../fonts/neuehanskendrick-heavy.woff2) format('woff2');
+}
